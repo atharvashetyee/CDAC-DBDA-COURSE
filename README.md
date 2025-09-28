@@ -8,15 +8,15 @@ This repository serves as a comprehensive collection of all the coursework, assi
 
 Each folder corresponds to a specific module in the DBDA curriculum and contains the relevant lab work, assignments, and notes.
 
-* [cite_start][📁 Module 1 - Linux Programming & Cloud Computing](./module_1_LinuxProgrammingAndCloudC.../) [cite: 1]
-* [cite_start][📁 Module 2 - OOPJ (Advanced Java)](./module_2_OOPJ8/) [cite: 1]
-* [cite_start][📁 Module 3 - Data Collection & DBMS](./module_3_DataCollectionAndDBMS/) [cite: 1]
-* [cite_start][📁 Module 4 - Python & R Programming](./module_4_PythonProgrammingAndR.Pro.../) [cite: 1]
-* [cite_start][📁 Module 5 - Big Data Technologies](./module_5_BigDataTechnologies/) [cite: 1]
-* [cite_start][📁 Module 6 - Advanced Analytics Using Statistics](./module_6_AdvancedAnalyticsUsingStatis.../) [cite: 1]
-* [cite_start][📁 Module 7 - Practical Machine Learning](./module_7_PracticalMachineLearning/) [cite: 1]
-* [cite_start][📁 Module 8 - Data Visualization, Analysis & Reporting](./module_8_DataVisualizationAnalysisAnd.../) [cite: 1]
-* [cite_start][📁 Module A - Aptitude & Effective Communication](./module_a_AptitudeAndEffectiveCommun.../) [cite: 1]
+* [cite_start]📁 Module 1 - Linux Programming & Cloud Computing [cite: 1]
+* [cite_start]📁 Module 2 - OOPJ (Advanced Java) [cite: 1]
+* [cite_start]📁 Module 3 - Data Collection & DBMS [cite: 1]
+* [cite_start]📁 Module 4 - Python & R Programming [cite: 1]
+* [cite_start]📁 Module 5 - Big Data Technologies [cite: 1]
+* [cite_start]📁 Module 6 - Advanced Analytics Using Statistics [cite: 1]
+* [cite_start]📁 Module 7 - Practical Machine Learning [cite: 1]
+* [cite_start]📁 Module 8 - Data Visualization, Analysis & Reporting [cite: 1]
+* [cite_start]📁 Module A - Aptitude & Effective Communication [cite: 1]
 
 ---
 
