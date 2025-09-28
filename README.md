@@ -8,15 +8,15 @@ This repository serves as a comprehensive collection of all the coursework, assi
 
 Each folder corresponds to a specific module in the DBDA curriculum and contains the relevant lab work, assignments, and notes.
 
-* [cite_start]📁 Module 1 - Linux Programming & Cloud Computing [cite: 1]
-* [cite_start]📁 Module 2 - OOPJ (Advanced Java) [cite: 1]
-* [cite_start]📁 Module 3 - Data Collection & DBMS [cite: 1]
-* [cite_start]📁 Module 4 - Python & R Programming [cite: 1]
-* [cite_start]📁 Module 5 - Big Data Technologies [cite: 1]
-* [cite_start]📁 Module 6 - Advanced Analytics Using Statistics [cite: 1]
-* [cite_start]📁 Module 7 - Practical Machine Learning [cite: 1]
-* [cite_start]📁 Module 8 - Data Visualization, Analysis & Reporting [cite: 1]
-* [cite_start]📁 Module A - Aptitude & Effective Communication [cite: 1]
+* 📁 Module 1 - Linux Programming & Cloud Computing 
+* 📁 Module 2 - OOPJ (Advanced Java) 
+* 📁 Module 3 - Data Collection & DBMS 
+* 📁 Module 4 - Python & R Programming 
+* 📁 Module 5 - Big Data Technologies 
+* 📁 Module 6 - Advanced Analytics Using Statistics
+* 📁 Module 7 - Practical Machine Learning 
+* 📁 Module 8 - Data Visualization, Analysis & Reporting 
+* 📁 Module A - Aptitude & Effective Communication 
 
 ---
 
